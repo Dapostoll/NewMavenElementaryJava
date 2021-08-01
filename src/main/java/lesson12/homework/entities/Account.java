@@ -1,12 +1,9 @@
 package lesson12.homework.entities;
 
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
 
-@Getter
-@Setter
-@ToString
+import lombok.Data;
+
+@Data
 public class Account {
     private int id;
     private int clientId;
