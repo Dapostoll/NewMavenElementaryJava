@@ -1,4 +1,4 @@
-package lesson12.database;
+package lesson12.classwork.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

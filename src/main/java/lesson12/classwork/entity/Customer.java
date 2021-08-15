@@ -1,4 +1,4 @@
-package lesson12.entity;
+package lesson12.classwork.entity;
 
 public class Customer {
     private int id;
