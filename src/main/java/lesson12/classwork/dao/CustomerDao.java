@@ -1,7 +1,7 @@
-package lesson12.dao;
+package lesson12.classwork.dao;
 
-import lesson12.database.Database;
-import lesson12.entity.Customer;
+import lesson12.classwork.database.Database;
+import lesson12.classwork.entity.Customer;
 
 import java.sql.*;
 import java.util.ArrayList;
