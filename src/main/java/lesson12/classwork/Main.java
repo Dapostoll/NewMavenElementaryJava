@@ -1,7 +1,7 @@
-package lesson12;
+package lesson12.classwork;
 
-import lesson12.dao.CustomerDao;
-import lesson12.entity.Customer;
+import lesson12.classwork.dao.CustomerDao;
+import lesson12.classwork.entity.Customer;
 
 public class Main {
     public static void main(String[] args) {
